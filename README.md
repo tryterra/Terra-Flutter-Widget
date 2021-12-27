@@ -41,7 +41,8 @@ openBrowserTab() async {
     );
 }
 ```
+## Videos
 
-![ios](media/android.mp4)
+[iOS demo](media/android.mp4)
 
-![android](media/ios.mp4)
+[Android demo](media/ios.mp4)
